@@ -3,7 +3,7 @@
   "private": true,
   "sideEffects": false,
   "type": "module",
-  "homepage": "https://USERNAME.github.io/REPO_NAME",
+  "homepage": "https://MohamedSayed111.github.io/Luxor-Taxis",
   "scripts": {
   "dev": "vite",
   "build": "vite build",
