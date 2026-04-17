@@ -43,6 +43,7 @@ function ContactPage() {
             {sent && <p className="text-primary font-bold">✓ {t.contact.send} ✓</p>}
           </form>
 
+
           <aside className="space-y-3">
             {[
               { icon: Phone, label: "+201117787541", title: t.contact.callUs },
