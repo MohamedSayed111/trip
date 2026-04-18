@@ -1,6 +1,6 @@
-import { T as jsxRuntimeExports } from "./worker-entry-9FBlegrf.js";
-import { u as useI18n, L as Link } from "./router-PI378_YA.js";
-import { c as createLucideIcon, H as Header, F as Footer } from "./Footer-DwyT1Pjk.js";
+import { T as jsxRuntimeExports } from "./worker-entry-BodDEdIw.js";
+import { u as useI18n, L as Link } from "./router-DvcW9c65.js";
+import { c as createLucideIcon, H as Header, F as Footer } from "./Footer-hPmebnWR.js";
 import { s as simPlans } from "./mock-Be7jAhRl.js";
 import { h as heroPyramids } from "./hero-pyramids-Cev68d-n.js";
 import "node:events";

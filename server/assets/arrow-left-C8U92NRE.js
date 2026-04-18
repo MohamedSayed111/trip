@@ -1,4 +1,4 @@
-import { c as createLucideIcon } from "./Footer-DwyT1Pjk.js";
+import { c as createLucideIcon } from "./Footer-hPmebnWR.js";
 const __iconNode = [
   ["path", { d: "m12 19-7-7 7-7", key: "1l729n" }],
   ["path", { d: "M19 12H5", key: "x3x0zl" }]

@@ -1,11 +1,11 @@
-import { r as reactExports, T as jsxRuntimeExports } from "./worker-entry-9FBlegrf.js";
-import { H as Header, F as Footer } from "./Footer-DwyT1Pjk.js";
+import { r as reactExports, T as jsxRuntimeExports } from "./worker-entry-BodDEdIw.js";
+import { H as Header, F as Footer } from "./Footer-hPmebnWR.js";
 import { h as heroPyramids } from "./hero-pyramids-Cev68d-n.js";
 import "node:events";
 import "node:async_hooks";
 import "node:stream/web";
 import "node:stream";
-import "./router-PI378_YA.js";
+import "./router-DvcW9c65.js";
 const cityPrices = {
   "Marsa Alam": 0,
   Hurghada: 120,
