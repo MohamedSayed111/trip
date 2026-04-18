@@ -108,7 +108,7 @@ export const translations = {
     common: { currency: "$", from: "من" },
   },
   en: {
-    brand: "Adel's Taxis",
+    brand: "Luxor Taxis",
     tagline: "Your Transfer & Tour Partner in Egypt",
     nav: {
       home: "Home",
